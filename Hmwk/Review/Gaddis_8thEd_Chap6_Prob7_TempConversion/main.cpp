@@ -1,7 +1,7 @@
 /* 
  * File:   main.cpp
  * Author: Andy Garcia
- * Created on March 2, 2017, 11:40 AM
+ * Created on September 9, 2018, 11:40 AM
  * Purpose: Convert Temperature from 0-20 from Fahrenheit to Celsius
  */
 

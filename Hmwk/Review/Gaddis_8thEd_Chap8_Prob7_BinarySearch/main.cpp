@@ -1,8 +1,8 @@
 /* 
  * File:   main.cpp
  * Author: Andy Garcia
- * Created on March 6, 2017, 8:28 PM
- * Purpose: 
+ * Created on September 9, 2018, 8:28 PM
+ * Purpose: Perform a binary search on an array of strings
  */
 
 //System Libraries Here
@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
     result=binSrch(Names,SIZE,name);
     
     //Display Results
-    cout<<name<<" was found at index "<<binSrch(Names,SIZE,name)<<endl;
+    cout<<name<<" was found at index "<<result<<endl;
     
     //Exit
     return 0;

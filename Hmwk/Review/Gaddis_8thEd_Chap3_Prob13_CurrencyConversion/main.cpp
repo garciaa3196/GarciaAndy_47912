@@ -1,7 +1,7 @@
 /* 
  * File:   main.cpp
  * Author: Andy Garcia
- * Created on February 26, 2017, 11:54 PM
+ * Created on September 7, 2018, 11:54 AM
  * Purpose: Convert U.S. dollars to various currencies
  */
 

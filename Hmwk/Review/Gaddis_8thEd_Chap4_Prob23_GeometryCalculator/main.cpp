@@ -1,7 +1,7 @@
 /* 
  * File:   main.cpp
  * Author: Andy Garcia
- * Created on February 28, 2017, 6:36 PM
+ * Created on September 8, 2018, 6:36 PM
  * Purpose: Create calculator able to calculate the area of a circle, rectangle,
             and triangle
  */

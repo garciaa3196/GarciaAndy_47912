@@ -1,7 +1,7 @@
 /* 
  * File:   main.cpp
  * Author: Andy Garcia
- * Created on March 4, 2017, 5:23 PM
+ * Created on September 9, 2018, 5:23 PM
  * Purpose: Find the amount of rainy,cloudy,and sunny days in June,July, and August
  */
 

@@ -1,7 +1,7 @@
 /* 
  * File:   main.cpp
  * Author: Andy Garcia
- * Created on March 6, 2017, 7:05 PM
+ * Created on September 9, 2018, 7:05 PM
  * Purpose: Calculate gross pay for each employee
  */
 

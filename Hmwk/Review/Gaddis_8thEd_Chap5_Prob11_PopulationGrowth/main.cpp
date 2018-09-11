@@ -1,7 +1,7 @@
 /* 
  * File:   main.cpp
  * Author: Andy Garcia
- * Created on February 28, 2017, 7:39 PM
+ * Created on September 8, 2018, 7:39 PM
  * Purpose:  Determine the size of a population after a period of time
  */
 
@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
     //Input Values
     cout<<"Input the initial size of the population"<<endl;
     cin>>PIsize;
-    cout<<"Input the growth as a positive integer"<<endl;
+    cout<<"Input the growth (%) as a positive integer"<<endl;
     cin>>growth;
     cout<<"Input the number of days passed"<<endl;
     cin>>days;

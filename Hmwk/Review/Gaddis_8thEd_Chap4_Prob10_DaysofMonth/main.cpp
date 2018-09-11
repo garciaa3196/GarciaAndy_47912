@@ -1,7 +1,7 @@
 /* 
  * File:   main.cpp
  * Author: Andy Garcia
- * Created on March 1, 2017, 11:14 AM
+ * Created on September 8, 2018, 11:14 AM
  * Purpose:  Determine the number of days in a month given the month and year
  */
 

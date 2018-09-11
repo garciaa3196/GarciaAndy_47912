@@ -1,7 +1,7 @@
 /* 
  * File:   main.cpp
  * Author: Andy Garcia
- * Created on February 26, 2017, 11:48 PM
+ * Created on September 7th, 2018, 11:48 AM
  * Purpose: Convert temperature in celsius to fahrenheit and kelvin
  */
 

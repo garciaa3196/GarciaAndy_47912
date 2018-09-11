@@ -1,7 +1,7 @@
 /* 
  * File:   main.cpp
  * Author: Andy Garcia
- * Created on February 27, 2017, 11:20 AM
+ * Created on September 8, 2018, 11:20 AM
  * Purpose: Determine the amount of points earned for a certain amount of books
  */
 
